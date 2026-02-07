@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co/BkRh4t0/kyro-lua.png)
 
-# KŸRØ
+# KŸRØ🔥
 
 ### Full Stack Developer  
 Building reliable systems, bots, and scalable web platforms
@@ -52,11 +52,6 @@ JavaScript · TypeScript · Lua · Python · SQL · HTML · CSS
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Git](https://img.shields.io/badge/Git-red)
-
----
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyro-lua&show_icons=true&theme=dark)
 
 ---
 
